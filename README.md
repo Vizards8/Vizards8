@@ -1,5 +1,3 @@
-# Vizards8
-
 <!-- http://yw.yishuzi.cn/image.png?fsize=100&font=Lifelogo%20Easy.ttf&text=Hi%20there,%20I%27m%20Neng&mirror=no&color=111&vcolor=111&bgcolor=fff&alpha=no&output=png&spacing=7&shadow=no&transparent=no&icon=no&iconic=&top_spacing=5&left_spacing=6&icon_size=48 -->
 <p align="center">
     <img width="50%" alt="Hi there, I'm Neng" src="./assets/header.png" />
