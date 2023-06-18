@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) -->
 
-![](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -55,7 +55,7 @@
 <div align="center">
 
 <!-- deploy github readme stats at vercel to link my private repos -->
-| <img align="center" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=Vizards8&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yijing's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizards8&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vizards8&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neng's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizards8&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 </div>
