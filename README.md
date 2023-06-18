@@ -55,7 +55,7 @@
 <div align="center">
 
 <!-- deploy github readme stats at vercel to link my private repos -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vizards8&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neng's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizards8&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-vizards8.vercel.app/api?username=Vizards8&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neng's github stats" /> | <img align="center" src="https://github-readme-stats-vizards8.vercel.app/api/top-langs/?username=Vizards8&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 </div>
