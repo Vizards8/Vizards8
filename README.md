@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) -->
 
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -29,8 +29,10 @@
 
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-<!-- <img align="center" width="12%" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"> -->
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -48,14 +50,17 @@
 <!-- ![](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) -->
 
+### ✨ About Me
 
-### 🤔 My GitHub stats ... 
+<div align="center">
 
 <!-- deploy github readme stats at vercel to link my private repos -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vizards8&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neng's github stats" />
+| <img align="center" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=Vizards8&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yijing's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizards8&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
-### ✍ I’m currently using ... 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizards8&count_private=true&layout=compact&theme=buefy&hide_border=true" />
+</div>
+
+### 💬 Ask me about anything [here](https://github.com/Vizards8/Vizards8/issues)
 
 ---
 
